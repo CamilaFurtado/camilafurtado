@@ -1,0 +1,68 @@
+html {
+    box-sizing: border-box;
+}
+main, p, .card-text,.btn {
+    font-family: 'Inter';
+}
+#slider{
+    background: transparent;
+    padding-top: 120px;
+}
+#slider p {
+    font-size: 18px;
+}
+p, .p-titulo, .card-text {
+    color: #807b91;
+}
+h3, .fonte-titulo, .card-titulo, .form-label {
+    font-family: 'Quicksand', sans-serif;
+}
+h3 {
+    color: #170c3a;
+    font-size: 28px;
+}
+.navbar-brand{
+    font-weight: 500;
+    color: #170c3a;
+}
+.texto-titulo {
+    display: block;
+    width: 90%;
+}
+.fonte-titulo {
+    color: #170c3a;
+    font-size: 28px;
+}
+.card {
+    object-fit: cover;
+}
+.card-largura {
+    max-width: 18rem;
+}
+.card-altura {
+    height: 180px;
+    object-fit: cover;
+}
+.texto-titulo-cards {
+    color: white;
+    background: #42a459;
+    max-width: 1284px;
+    font-weight: 400;
+    font-size: 28px;
+}
+.card-titulo{
+    font-size: 19px;
+}
+.card-text, .form-label, .p-rodape {
+    font-size: 16px;
+}
+.form-label {
+    color: #170c3a;
+}
+.btn {
+    background-color: #42a459;
+    border: none;
+}
+.caixa-dialogo {
+    background: #f4f3f5;
+}
